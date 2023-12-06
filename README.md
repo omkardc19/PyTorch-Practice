@@ -1,2 +1,2 @@
-# PyTorch-tutorials-jovian
+# PyTorch Practice
 Run on colab
